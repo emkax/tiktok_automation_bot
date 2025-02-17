@@ -1,0 +1,10 @@
+beautifulsoup4==4.13.3
+bottle==0.12.25
+bottle-websocket==0.2.9
+bs4==0.0.2
+selenium==4.28.1
+toml==0.10.2
+urllib3==2.0.4
+webdriver-manager==4.0.2
+websocket-client==1.8.0
+
