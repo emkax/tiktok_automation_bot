@@ -35,3 +35,5 @@ def cyan(to_cyan: str) -> str:
     Returns the cyan green
     """
     return OKCYAN + to_cyan + ENDC
+
+#Copyright 2024 William Kaiser
