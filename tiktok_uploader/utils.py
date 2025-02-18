@@ -1,3 +1,4 @@
+#Copyright 2024 William Kaiser
 """
 Utilities for TikTok Uploader
 """
@@ -36,4 +37,3 @@ def cyan(to_cyan: str) -> str:
     """
     return OKCYAN + to_cyan + ENDC
 
-#Copyright 2024 William Kaiser
