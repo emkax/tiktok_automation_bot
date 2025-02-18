@@ -1,3 +1,5 @@
+#Copyright 2024 William Kaiser
+
 """Handles authentication for TikTokUploader"""
 from http import cookiejar
 from time import time, sleep
