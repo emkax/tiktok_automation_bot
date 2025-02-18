@@ -1,3 +1,5 @@
+#Copyright 2024 William Kaiser
+
 """
 `tiktok_uploader` module for uploading videos to TikTok
 
