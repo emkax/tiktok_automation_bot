@@ -1,3 +1,5 @@
+#Copyright 2024 William Kaiser
+
 """
 TikTok Uploader Initialization
 """
