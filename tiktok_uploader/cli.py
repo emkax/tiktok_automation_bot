@@ -1,3 +1,5 @@
+#Copyright 2024 William Kaiser
+
 """
 CLI is a controller for the command line use of this library
 """
