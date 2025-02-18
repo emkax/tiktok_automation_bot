@@ -1,3 +1,5 @@
+#Copyright 2024 William Kaiser
+
 """Gets the browser's given the user's input"""
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
